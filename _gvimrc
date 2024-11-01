@@ -1,0 +1,4 @@
+"set ch=2
+colorscheme morning
+set guifont=Cascadia_Mono:h12
+
